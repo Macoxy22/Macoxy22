@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Matt, a Self-taught Data A nalyst, Passionate about SQL and PYTHON for data analysis from Nigeria, open for relocation.
+
+[**About Me in Seconds**](https://www.google.com)
 <!--
 **Macoxy22/Macoxy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
