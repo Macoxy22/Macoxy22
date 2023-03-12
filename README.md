@@ -2,7 +2,7 @@
 
 I'm Matt, a Self-taught Data Analyst, Passionate about SQL and PYTHON for data analysis from Nigeria, open for relocation.
 
-**About Me in Seconds**
+ ✨**About Me in Seconds**✨
 
 🌱 I'm in love with data and feel so good to see it tell wonderful stories.
 
